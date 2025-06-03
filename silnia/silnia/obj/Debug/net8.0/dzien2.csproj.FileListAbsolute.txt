@@ -1,0 +1,14 @@
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien2\dzien2\bin\Debug\net8.0\dzien2.exe
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien2\dzien2\bin\Debug\net8.0\dzien2.deps.json
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien2\dzien2\bin\Debug\net8.0\dzien2.runtimeconfig.json
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien2\dzien2\bin\Debug\net8.0\dzien2.dll
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien2\dzien2\bin\Debug\net8.0\dzien2.pdb
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien2\dzien2\obj\Debug\net8.0\dzien2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien2\dzien2\obj\Debug\net8.0\dzien2.AssemblyInfoInputs.cache
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien2\dzien2\obj\Debug\net8.0\dzien2.AssemblyInfo.cs
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien2\dzien2\obj\Debug\net8.0\dzien2.csproj.CoreCompileInputs.cache
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien2\dzien2\obj\Debug\net8.0\dzien2.dll
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien2\dzien2\obj\Debug\net8.0\refint\dzien2.dll
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien2\dzien2\obj\Debug\net8.0\dzien2.pdb
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien2\dzien2\obj\Debug\net8.0\dzien2.genruntimeconfig.cache
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien2\dzien2\obj\Debug\net8.0\ref\dzien2.dll

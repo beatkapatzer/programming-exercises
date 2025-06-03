@@ -1,0 +1,14 @@
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien3\fibanacci\fibanacci\bin\Debug\net8.0\fibanacci.exe
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien3\fibanacci\fibanacci\bin\Debug\net8.0\fibanacci.deps.json
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien3\fibanacci\fibanacci\bin\Debug\net8.0\fibanacci.runtimeconfig.json
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien3\fibanacci\fibanacci\bin\Debug\net8.0\fibanacci.dll
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien3\fibanacci\fibanacci\bin\Debug\net8.0\fibanacci.pdb
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien3\fibanacci\fibanacci\obj\Debug\net8.0\fibanacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien3\fibanacci\fibanacci\obj\Debug\net8.0\fibanacci.AssemblyInfoInputs.cache
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien3\fibanacci\fibanacci\obj\Debug\net8.0\fibanacci.AssemblyInfo.cs
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien3\fibanacci\fibanacci\obj\Debug\net8.0\fibanacci.csproj.CoreCompileInputs.cache
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien3\fibanacci\fibanacci\obj\Debug\net8.0\fibanacci.dll
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien3\fibanacci\fibanacci\obj\Debug\net8.0\refint\fibanacci.dll
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien3\fibanacci\fibanacci\obj\Debug\net8.0\fibanacci.pdb
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien3\fibanacci\fibanacci\obj\Debug\net8.0\fibanacci.genruntimeconfig.cache
+C:\Users\beatk\Desktop\studia\programowaniezprzemkiem\dzien3\fibanacci\fibanacci\obj\Debug\net8.0\ref\fibanacci.dll
